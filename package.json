@@ -1,6 +1,6 @@
 {
   "name": "is-javascript",
-  "version": "0.666.0",
+  "version": "0.666.1",
   "description": "javascript existential crisis detector",
   "main": "index.js",
   "devDependencies": {
