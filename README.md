@@ -9,7 +9,7 @@ Having an existential crisis inside your Javascript? Worry no more.
 ## Usage
 
 ```javascript
-var isJavascript = require('is-javascript')
+var isJavascript = require('is-javascript');
 
 isJavascript();  // true
 ```
